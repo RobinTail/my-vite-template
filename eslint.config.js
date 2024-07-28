@@ -19,6 +19,7 @@ export default [
   // Things to turn off globally
   { ignores: ["dist/"] },
   {
+    files: ["src/**/*.{ts,tsx}"],
     rules: {
       "no-empty": ["error", { allowEmptyCatch: true }],
       "no-empty-pattern": ["error", { allowObjectPatternsAsParameters: true }],
