@@ -11,6 +11,10 @@ const router = createBrowserRouter([
     element: <App />,
     errorElement: <Alert severity="error">Route not found</Alert>,
   },
+  {
+    path: "/login",
+    Component: () => <Alert severity="info">Not implemented</Alert>,
+  },
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
