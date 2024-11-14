@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Router + ESLint + Prettier + MUI + Vitest + Testing Library + JSDOM + TSX
+# React + TypeScript + Vite + Router + ESLint + Prettier + MUI + Vitest + Testing Library + HappyDOM + TSX
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
